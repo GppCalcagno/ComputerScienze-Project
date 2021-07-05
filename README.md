@@ -1,3 +1,0 @@
-# Progetto-IngInf
-
-wip
